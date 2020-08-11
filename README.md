@@ -1,4 +1,4 @@
-## wmserv-control
+## vmwserv-control
 I use VMware's virtualization technology a lot. But this doesn't mean that i want to run it's components while doing something else, right?!
 After installing VMware i observed that some of it's needed services keep running even after you close the program. I hate this behavior from
 the deepest of my heart because i've grown up with the idea that 'the less, the better'. Keeping useless software running on your computer damages
